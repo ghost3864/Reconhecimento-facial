@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Personal and biometric data
+utilizadores.json
+logs.txt
+imagens/
+modelos/
+Vídeos/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local editor settings
+.vscode/
